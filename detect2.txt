@@ -1,0 +1,56 @@
+Python Training in Nepal
+Broadway Infosys offers special Python training courses in Nepal as it is considered as one of the popular programming languages that is attracting large pool of developers worldwide. The giants like Google, Yahoo and Amazon are using Python for their special projects and this has further inspired many developers to learn this programming language in Nepal
+Course Highlights
+Python training course has been designed for aspiring developers with some level or no prior programming experience. The courses range from basic to advanced level. The course is all about familiarizing the trainees with simpler and smarter ways to develop interactive web applications using Python. At the end of the training, students need to undertake a project work to develop interactive application using Python.
+Binod is versatile guy
+Web Development With Python and Django - Outlines
+Python Programming Language
+Course Outline:
+Basic Syntaxes
+Variables, Expressions and Statements
+Functions
+Conditions and Recursion
+Fruitful Functions
+Iteration
+String
+Lists
+Dictionaries
+Tuples
+Set
+Exception Handling
+Files
+CSV
+Pandas
+Database with Python
+Basic Data Visualization
+Classes and Objects
+Classes and Methods
+Callable and Non-Callable Object
+Inheritance
+GIT
+Tools
+Bonus
+Final Project
+Course Outline for Django Framework
+Django Training
+Getting Started
+Manage.py
+Django Views and URLconfs
+Bootstrap
+Django Templates
+Database
+Django Models
+The Django Admin Site
+Django Forms
+Generic Views
+User Authentication in Django
+Django Sessions
+Django Middleware And Security
+Generating Non-HTML Content
+RESTful API
+Testing
+JS and Frontend Development
+Deployment
+Final Project
+Awesome Django Github Repository
+Job Interview Questions
